@@ -138,9 +138,11 @@ Chorus defines the conceptual and architectural specifications Composer follows.
 
 # 6. Specification References
 
-- [@chorus:/docs/architecture/05-composer.md](../chorus/docs/architecture/05-composer.md)
-- [@chorus:/docs/architecture/01-overview.md](../chorus/docs/architecture/01-overview.md)
-- Future Composer API specs will appear under `@chorus:/docs/specs/`
+- [@chorus:/docs/architecture/05-composer.md](https://github.com/infinite-loop-audio/loophole-chorus/blob/main/docs/architecture/05-composer.md)
+- [@chorus:/docs/architecture/01-overview.md](https://github.com/infinite-loop-audio/loophole-chorus/blob/main/docs/architecture/01-overview.md)
+
+Future Composer API specs will appear under
+[@chorus:/docs/specs/](https://github.com/infinite-loop-audio/loophole-chorus/tree/main/docs/specs/)
 
 ---
 
